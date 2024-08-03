@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Flourish</string>
+    <string name="default_web_client_id"></string>
+    <string name="sign_in_button">Sign in with Google</string>
+    <string name="logo_image_description">Flourish logo</string>
+    <string-array name="manage_plant_options">
+        <item>Watering Schedule</item>
+        <item>Fertilizing Schedule</item>
+        <item>Plant Health Parameters</item>
+        <item>Plant Health History</item>
+        <item>Plant Disease</item>
+        <item>Plant Care Recommendations</item>
+        <item>Plant Disease Search</item>
+        <item>Microcontroller Connection</item>
+    </string-array>
+    <string-array name="plant_disease_search_options">
+        <item>Find by Name</item>
+        <item>Find by Image</item>
+    </string-array>
+    <string-array name="plant_params">
+        <item>Nitrogen</item>
+        <item>Phosphorus</item>
+        <item>Potassium</item>
+        <item>PH</item>
+        <item>Humidity</item>
+        <item>Temperature</item>
+        <item>Light</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="waiting_for_updates">Waiting for updates…</string>
+    <string name="back_button">Back button</string>
+    <string name="plant_health_parameters_history">Plant Health Parameters History</string>
+    <string name="name">Name</string>
+    <string name="option_name">Option name</string>
+    <string name="continue_button">Continue button</string>
+    <string name="watering_schedule">Watering Schedule</string>
+    <string name="days">Days</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="time">Time</string>
+    <string name="no_time_selected">No time selected</string>
+    <string name="select_time">Select Time</string>
+    <string name="clear">Clear</string>
+    <string name="update">Update</string>
+    <string name="my_plant_disease">My Plant Disease</string>
+    <string name="plant_image">Plant Image</string>
+    <string name="loading">Loading…</string>
+    <string name="delete">Delete</string>
+    <string name="my_plant">My Plant</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="health_status">Health Status</string>
+    <string name="some_description">Some Description</string>
+    <string name="watering">Watering</string>
+    <string name="feeding">Feeding</string>
+    <string name="soil_parameters">Soil Parameters</string>
+    <string name="light">Light</string>
+    <string name="manage_plant">Manage plant</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="continue_btn">Continue</string>
+    <string name="proceed">Proceed</string>
+    <string name="plant_health_parameters">Plant Health Parameters</string>
+    <string name="plant_care_recommendations">Plant Care Recommendations</string>
+    <string name="microcontroller_connection">Microcontroller Connection</string>
+    <string name="live_updates">Live Updates</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="is_it_what_you_are_looking_for">Is it what you are looking for?</string>
+    <string name="try_again">Try Again</string>
+    <string name="fertilising_schedule">Fertilising Schedule</string>
+    <string name="date_of_fertilising">Date of Fertilising</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="select_date">Select Date</string>
+    <string name="time_of_fertilising">Time of Fertilising</string>
+    <string name="settings">Settings</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="add_a_plant">Add a plant</string>
+    <string name="no_plant_disease_found">No plant disease found</string>
+</resources>
